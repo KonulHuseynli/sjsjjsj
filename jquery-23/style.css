@@ -1,0 +1,29 @@
+.showhide{
+    margin: 50px;
+}
+#show,#hide{
+    width: fit-content;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.content{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+#heading{
+    width: fit-content;
+}
+#FADEDTEXT{
+    width: 400px;
+    border: 1px solid blue;
+    padding: 10px;
+    /* opacity: 1;
+    transition: opacity 1.5s linear; */
+}
+/* .showhide2 .fadeout{
+opacity: 0;
+} */
